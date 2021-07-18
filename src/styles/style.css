@@ -1,10 +1,23 @@
-
+body{
+    background-color: #000000;
+}
 .marCenter{
     margin-top: 16%;
 }
 .marginBtn{
     margin-left: 30%;
 }
+.navCl{
+    background-color:red;color: white;
+}
 .boxShadow{
     box-shadow: 4px 4px 16px 4px black,-5px 5px 20px 5px olive,5px -5px 20px 5px green,-5px -5px 20px 5px yellow;
+}
+
+.link{
+    font-size: 24px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 400;
+    color: white;
+    text-decoration: none;
 }
