@@ -6,12 +6,13 @@ This is a simple random color picker project using javaScript.
 # Project Specifications
 
 + create a simple UI(user interface)
-+ Initial state have one button. 
++ Initial state have one button and two page one is Hex and another is Simple. 
 + when click on button then a random color value show in the text filed and change whole body background color according to random color.
++ If a user goes to Hex page then he/she will get only hex color (#hex) value and goes to Simple page then he/she will get both #hex and rgb() color value.
 
 ## Project Picture
 
-![Random Color Picker!](/src/images/randomColor.PNG "Random Color Picker")
+![Random Color Picker!](/src/images/random_picked_color.PNG "Random Color Picker")
 
 
 This project has been created using **[webpack-cli](https://github.com/webpack/webpack-cli)**, you can now see the project in live server using this:

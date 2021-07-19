@@ -1,5 +1,6 @@
 import data_2 from "./data_2"
 
+
 class UITwo{
     constructor(){
 
