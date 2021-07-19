@@ -11,7 +11,7 @@ body{
     background-color:red;color: white;
 }
 .boxShadow{
-    box-shadow: 4px 4px 16px 4px black,-5px 5px 20px 5px olive,5px -5px 20px 5px green,-5px -5px 20px 5px yellow;
+    box-shadow: 4px 4px 16px 4px black,5px 5px 20px 5px olive,5px 5px 20px 5px green,5px 5px 20px 5px yellow;
 }
 
 .link{
@@ -20,4 +20,7 @@ body{
     font-weight: 400;
     color: white;
     text-decoration: none;
+}
+.link:hover{
+    color: greenyellow !important;
 }
